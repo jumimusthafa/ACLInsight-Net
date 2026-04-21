@@ -1,4 +1,4 @@
-# ACLInsight-Net 🦴
+# ACLInsight-Net 
 
 > **ACL Tear Detection from Knee MRI using EfficientNet-B0 + Grad-CAM Explainability**  
 > Targeting IEEE publication | Dataset: MRNet-v1 (Stanford)
